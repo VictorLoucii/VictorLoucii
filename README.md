@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorLoucii
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and c++
 - 📫 How to reach me kwickslow30@gmail.com
 
 <!---
