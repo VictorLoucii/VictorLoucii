@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorLoucii
 - 👀 I’m interested in mobile development
-- 🌱 I am a computer science student currently learning JavaScript, and I am familiar with Python and C++. I enjoy building projects and exploring new technologies
+- 🌱 I am a computer science student currently learning react-native framework, I am also familiar with Javascript, Python and C++. I enjoy building projects and exploring new technologies
 - 📫 How to reach me kwickslow30@gmail.com
 
 <!---
