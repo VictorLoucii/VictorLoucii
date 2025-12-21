@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Victor Loucii  
+# Hi, I'm Victor Loucii  
 
 🚀 **Mobile & Web Developer | React Native & React Developer | CS Student**
 
@@ -6,7 +6,7 @@ I build mobile apps and web interfaces using modern JavaScript technologies. I e
 
 ---
 
-## 👀 About Me  
+##  About Me  
 - 📱 Passionate about **mobile app development** using **React Native**  
 - 🌐 Interested in **web development** using **React**  
 - 🌱 Currently learning advanced concepts in **JavaScript**, **TypeScript**, and **React Native CLI**  
