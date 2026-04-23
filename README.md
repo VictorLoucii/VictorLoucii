@@ -1,53 +1,65 @@
-# Hi, I'm Victor Loucii  
+# Hi, I'm Victor Loucii  👋
 
-🚀 **Mobile & Web Developer | React Native & React Developer | CS Student**
+🚀 **AI Engineer | Full-Stack Mobile Developer | CS Student**
 
-I build mobile apps and web interfaces using modern JavaScript technologies. I enjoy creating clean UIs, experimenting with new tools, and learning full stack concepts.
+I build intelligent, agentic AI systems and connect them to modern mobile and web interfaces. I enjoy engineering complex RAG architectures, orchestrating LLMs, and creating clean, cross-platform UIs.
 
 ---
 
-##  About Me  
-- 📱 Passionate about **mobile app development** using **React Native**  
-- 🌐 Interested in **web development** using **React**  
-- 🌱 Currently learning advanced concepts in **JavaScript**, **TypeScript**, and **React Native CLI**  
-- 💻 Comfortable with **C++**, data structures, and problem-solving  
-- 🔗 Exploring backend (Node.js, Firebase, Appwrite)  
-- 🎯 Goal: Become a **full-stack mobile & web developer**
+## 💡 About Me  
+- 🤖 Engineering **Agentic AI & RAG systems** with **Python**, **LangGraph**, and **FastAPI**.
+- 📱 Building production-grade **mobile apps** using **React Native**, **TypeScript**, and **Supabase**.  
+- 🌱 Currently diving deep into **LLM Observability (LangSmith)**, **Model Context Protocol (MCP)**, and deterministic AI routing.  
+- 💻 Comfortable with **C++**, data structures, and complex logic optimization (like NP-hard fitness functions).  
+- 🎯 Goal: Bridge the gap between state-of-the-art **AI Orchestration** and seamless **Frontend User Experiences**.
 
 ---
 
 ## 🛠 Tech Stack  
-**Languages:**  
-- JavaScript  
-- TypeScript  
-- C++  
-- HTML / CSS
-- Python
 
-**Frameworks & Libraries:**  
-- React Native  
-- React  
+**AI & Orchestration:** - LangGraph & LangChain  
+- Agentic RAG Architecture
+- ChromaDB (Vector Search) 
+- LangSmith (Tracing & Eval)
+- Hugging Face  
+
+**Languages:** - Python (Advanced)
+- TypeScript & JavaScript  
+- C++  
+- SQL
+- HTML / CSS  
+
+**Frameworks & Libraries:** - FastAPI 
+- React Native & Expo  
+- Next.js & React  
+- Django  
 - Node.js   
 
-**Backend / Cloud (Beginner):**  
+**Cloud & Databases:** - Supabase (PostgreSQL)
+- Vercel
+- Cloudflare R2
 - Firebase  
-- Appwrite
-- Supabase
 
-**Tools & Technologies:**  
+**Tools & Infrastructure:** - Docker  
+- uv (Python Package Manager)
 - Git & GitHub  
-- VS Code  
-- Android Studio  
-- ADB  
-- Linux (Mint)  
-- npm / Node.js environment  
+- VS Code & Android Studio  
+- Linux  
+
+---
+
+## 📈 Featured Work
+- **Unified Knowledge Agent:** A modular Agentic RAG system built with LangGraph, FastAPI, and Next.js, featuring deterministic routing and semantic firewalls.
+- **TimeGenie:** An AI-driven timetable optimizer (Smart India Hackathon project) solving NP-hard constraints with Python and Django.
+- **React Native Ecosystem:** Multiple full-stack mobile applications utilizing Zustand, React Navigation, and custom UI architectures.
 
 ---
 
 ## 📫 Contact  
-Feel free to reach out!  
-📧 **Email:** kwickslow30@gmail.com  
+Feel free to reach out to collaborate on AI agents or mobile apps!  
+📧 **Email:** victor.neisakuolie@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/victor-loucii](https://www.linkedin.com/in/victor-loucii-48351a292/)
 
 ---
 
-Thanks for visiting my profile! 
+Thanks for visiting my profile!
