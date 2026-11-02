@@ -5,10 +5,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-loucii-48351a292/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:victor.neisakuolie@gmail.com"><img src="https://img.shields.io/badge/victor.neisakuolie%40gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white" alt="victor.neisakuolie@gmail.com"/></a>
+  <a href="https://victor-neisa-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0e7490?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/VictorLoucii"><img src="./assets/about.svg" width="100%" alt="About Victor. Builds agentic AI and RAG systems, plus mobile and web apps. Learning LLM observability, Model Context Protocol and deterministic routing. 1,820 contributions in the past year."/></a>
+  <a href="https://github.com/VictorLoucii"><img src="./assets/about.svg" width="100%" alt="About Victor. Builds agentic AI and RAG systems, plus mobile and web apps. Learning LLM observability, Model Context Protocol and deterministic routing. 1,800+ contributions in the past year."/></a>
 </p>
 
 <a href="https://github.com/VictorLoucii"><img src="./assets/divider.svg" width="100%" alt=""/></a>

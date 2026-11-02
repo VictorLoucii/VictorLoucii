@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 312" width="1200" height="312" role="img" aria-labelledby="t d">
-<title id="t">About Victor</title><desc id="d">builds: agentic AI and RAG systems, plus mobile and web apps. stack: Python, LangGraph, FastAPI, Next.js, TypeScript, Supabase. learning: LLM observability, Model Context Protocol, deterministic routing. goal: connect AI orchestration to clean front-end experiences. activity: 1,820 contributions in the past year (Nov 2026)</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 276" width="1200" height="276" role="img" aria-labelledby="t d">
+<title id="t">About Victor</title><desc id="d">builds: agentic AI and RAG systems, plus mobile and web apps. stack: Python, LangGraph, FastAPI, Next.js, TypeScript, Supabase. learning: LLM observability, Model Context Protocol, deterministic routing. goal: connect AI orchestration to clean front-end experiences. activity: 1,800+ contributions in the past year</desc>
 <style>
   .flow{stroke-dasharray:5 11;animation:flow 2.2s linear infinite}
   .edge{animation:edge 30s linear infinite}
@@ -19,16 +19,15 @@
   <marker id="arrowY" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#facc15"/></marker>
 </defs>
 
-<rect width="1200" height="312" rx="20" fill="url(#bg)"/>
-<rect width="1200" height="312" rx="20" fill="url(#grid)"/>
-<rect x="8" y="8" width="1184" height="296" rx="14" fill="none" stroke="#2a3a52"/>
-<rect class="edge" x="8" y="8" width="1184" height="296" rx="14" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="300 300" stroke-linecap="round"/>
+<rect width="1200" height="276" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="276" rx="20" fill="url(#grid)"/>
+<rect x="8" y="8" width="1184" height="260" rx="14" fill="none" stroke="#2a3a52"/>
+<rect class="edge" x="8" y="8" width="1184" height="260" rx="14" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="300 300" stroke-linecap="round"/>
 
-<circle cx="48" cy="46" r="7" fill="#facc15"/><circle cx="72" cy="46" r="7" fill="#2a3a52"/><circle cx="96" cy="46" r="7" fill="#2a3a52"/>
-<text x="70" y="104" font-size="21" fill="#22d3ee" class="mono">$ whoami</text>
-<text x="70" y="150" font-size="20" fill="#facc15" class="mono">builds</text><text x="205" y="150" font-size="20" fill="#f1f5f9" class="mono">agentic AI and RAG systems, plus mobile and web apps</text>
-<text x="70" y="182" font-size="20" fill="#facc15" class="mono">stack</text><text x="205" y="182" font-size="20" fill="#f1f5f9" class="mono">Python, LangGraph, FastAPI, Next.js, TypeScript, Supabase</text>
-<text x="70" y="214" font-size="20" fill="#facc15" class="mono">learning</text><text x="205" y="214" font-size="20" fill="#f1f5f9" class="mono">LLM observability, Model Context Protocol, deterministic routing</text>
-<text x="70" y="246" font-size="20" fill="#facc15" class="mono">goal</text><text x="205" y="246" font-size="20" fill="#f1f5f9" class="mono">connect AI orchestration to clean front-end experiences</text>
-<text x="70" y="278" font-size="20" fill="#facc15" class="mono">activity</text><text x="205" y="278" font-size="20" fill="#f1f5f9" class="mono">1,820 contributions in the past year (Nov 2026)</text>
+<text x="70" y="66" font-size="21" fill="#22d3ee" class="mono">$ whoami</text>
+<text x="70" y="112" font-size="20" fill="#facc15" class="mono">builds</text><text x="205" y="112" font-size="20" fill="#f1f5f9" class="mono">agentic AI and RAG systems, plus mobile and web apps</text>
+<text x="70" y="144" font-size="20" fill="#facc15" class="mono">stack</text><text x="205" y="144" font-size="20" fill="#f1f5f9" class="mono">Python, LangGraph, FastAPI, Next.js, TypeScript, Supabase</text>
+<text x="70" y="176" font-size="20" fill="#facc15" class="mono">learning</text><text x="205" y="176" font-size="20" fill="#f1f5f9" class="mono">LLM observability, Model Context Protocol, deterministic routing</text>
+<text x="70" y="208" font-size="20" fill="#facc15" class="mono">goal</text><text x="205" y="208" font-size="20" fill="#f1f5f9" class="mono">connect AI orchestration to clean front-end experiences</text>
+<text x="70" y="240" font-size="20" fill="#facc15" class="mono">activity</text><text x="205" y="240" font-size="20" fill="#f1f5f9" class="mono">1,800+ contributions in the past year</text>
 </svg>
