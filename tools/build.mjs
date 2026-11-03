@@ -121,8 +121,8 @@ const files = { 'header.svg': header, 'about.svg': about, 'flagship.svg': flagsh
 for (const [name, body] of Object.entries(files)) writeFileSync(join(ASSETS, name), body);
 
 // ---------- README ----------
-const PROFILE = 'https://github.com/VictorLoucii';
-const badge = ([label, logo, hex]) => `<a href="${PROFILE}"><img src="https://img.shields.io/badge/-${encodeURIComponent(label).replace(/-/g, '--')}-161b22?style=flat-square${logo ? `&logo=${logo}&logoColor=${hex}` : ''}" alt="${label}"/></a>`;
+// GitHub links every bare image to its own file. An image inside <picture> gets no link.
+const badge = ([label, logo, hex]) => `<picture><img src="https://img.shields.io/badge/-${encodeURIComponent(label).replace(/-/g, '--')}-161b22?style=flat-square${logo ? `&logo=${logo}&logoColor=${hex}` : ''}" alt="${label}"/></picture>`;
 const btn = (href, text, color, logo) => `<a href="${href}"><img src="https://img.shields.io/badge/${encodeURIComponent(text).replace(/-/g, '--')}-${color}?style=for-the-badge&logo=${logo}&logoColor=white" alt="${text}"/></a>`;
 const stack = [
   ['AI and LLM', [['LangGraph', 'langgraph', 'FFFFFF'], ['LangChain', 'langchain', '4FBF9F'], ['PyTorch', 'pytorch', 'EE4C2C'], ['Hugging Face', 'huggingface', 'FFD21E'], ['Sentence Transformers'], ['OpenAI API', 'openai', 'FFFFFF'], ['Anthropic API', 'anthropic', 'D97757'], ['Gemini API', 'googlegemini', '8E75B2'], ['ChromaDB'], ['FAISS'], ['Arize Phoenix'], ['LangSmith'], ['OpenTelemetry', 'opentelemetry', 'F5A800']]],
@@ -136,7 +136,7 @@ const stack = [
 ];
 
 const readme = `<p align="center">
-  <a href="https://github.com/VictorLoucii"><img src="./assets/header.svg" width="100%" alt="AI Engineer and full-stack mobile and web developer."/></a>
+  <picture><img src="./assets/header.svg" width="100%" alt="AI Engineer and full-stack mobile and web developer."/></picture>
 </p>
 
 <p align="center">
@@ -146,10 +146,10 @@ const readme = `<p align="center">
 </p>
 
 <p align="center">
-  <a href="https://github.com/VictorLoucii"><img src="./assets/about.svg" width="100%" alt="About Victor. Builds agentic AI and RAG systems, plus mobile and web apps. Learning LLM observability, Model Context Protocol and deterministic routing. 1,800+ contributions in the past year."/></a>
+  <picture><img src="./assets/about.svg" width="100%" alt="About Victor. Builds agentic AI and RAG systems, plus mobile and web apps. Learning LLM observability, Model Context Protocol and deterministic routing. 1,800+ contributions in the past year."/></picture>
 </p>
 
-<a href="https://github.com/VictorLoucii"><img src="./assets/divider.svg" width="100%" alt=""/></a>
+<picture><img src="./assets/divider.svg" width="100%" alt=""/></picture>
 
 <p align="center">
   <a href="https://github.com/VictorLoucii/unified-knowledge-agent">
@@ -170,7 +170,7 @@ const readme = `<p align="center">
   <a href="https://github.com/VictorLoucii/ReactNativeCLIprojects">React Native projects</a>
 </p>
 
-<a href="https://github.com/VictorLoucii"><img src="./assets/divider.svg" width="100%" alt=""/></a>
+<picture><img src="./assets/divider.svg" width="100%" alt=""/></picture>
 
 <h3 align="center">Tech stack</h3>
 
@@ -179,7 +179,7 @@ ${stack.map(([name, items]) => `<p align="center"><b>${name}</b><br>\n${items.ma
 <p align="center">Open to collaborating on AI agents, mobile apps and web apps.</p>
 
 <p align="center">
-  <a href="https://github.com/VictorLoucii"><img src="./assets/footer.svg" width="100%" alt=""/></a>
+  <picture><img src="./assets/footer.svg" width="100%" alt=""/></picture>
 </p>
 `;
 writeFileSync(join(OUT, 'README.md'), readme);
